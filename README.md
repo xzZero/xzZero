@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Tai 👋</h1>
+<h1 align="center">Hi there, I'm Son 👋</h1>
 <h3 align="center">I'm a software engineer with a passion for data engineering and embedded systems.</h3>
 
 - 🔭 I’m currently working as Data Engineer Enthusiast
