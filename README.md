@@ -1,16 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Tai 👋</h1>
+<h3 align="center">I'm a software engineer with a passion for data engineering and embedded systems.</h3>
 
-<!--
-**xzZero/xzZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as Data Engineer Enthusias
+- 👯 I have been working as a software engineer for embebedded systems in multiple projects
+- ⚡ I love math, programming, data science, and books
+- 🌱 I’m addicted to learning and growing every day
+- 📫 How to reach me: 
+  - 📨 Email: [gbson96@gmail.com](mailto:gbson96@gmail.com).
+  - 📥 LinkedIn: [linkedin.com/in/buu-son-dinh/](https://www.linkedin.com/in/buu-son-dinh/).
+  - 🌎 Website: [xzZero.github.io](https://xzZero.github.io).
